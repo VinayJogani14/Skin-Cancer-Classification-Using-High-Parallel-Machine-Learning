@@ -1,0 +1,36 @@
+Class,Accuracy (%)
+Acne And Rosacea Photos,97.23714504988489
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,89.08424908424908
+Atopic Dermatitis Photos,99.10344827586206
+Ba  Cellulitis,99.62709757613425
+Ba Impetigo,100.0
+Benign,91.46625290923197
+Bulluosdiseasephotos,99.86996098829648
+Cellulitis Impetigo And Other Bacterial Infections,99.80952380952381
+Eczema Photos,88.69888475836431
+Exanthems And Drug Eruptions,98.04416403785488
+Fu Athlete Foot,100.0
+Fu Nail Fungus,98.38709677419355
+Fu Ringworm,99.8062015503876
+Hair Loss Photos Alopecia And Other Hair Diseases,99.87293519695045
+Heathy,100.0
+Herpes Hpv And Other Stds Photos,99.29032258064517
+Light Diseases And Disorders Of Pigmentation,95.02982107355865
+Lupus And Other Connective Tissue Diseases,97.98962386511025
+Malignant,93.69903632320238
+Melanoma Skin Cancer Nevi And Moles,98.3739837398374
+Nail Fungus And Other Nail Disease,90.55118110236221
+Pa Cutaneous Larva Migrans,100.0
+Poison Ivy Photos And Other Contact Dermatitis,100.0
+Psoriasis Pictures Lichen Planus And Related Diseases,80.61901252763448
+Rashes,99.28212491026561
+Scabies Lyme Disease And Other Infestations And Bites,99.68051118210863
+Seborrheic Keratoses And Other Benign Tumors,89.43338437978561
+Systemic Disease,95.3104359313078
+Tinea Ringworm Candidiasis And Other Fungal Infections,89.84432913269089
+Urticaria Hives,99.5249406175772
+Vascular Tumors,99.87333755541482
+Vasculitis Photos,98.14241486068111
+Vi Chickenpox,100.0
+Vi Shingles,100.0
+Warts Molluscum And Other Viral Infections,71.97452229299363

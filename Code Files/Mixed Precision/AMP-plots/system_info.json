@@ -1,0 +1,16 @@
+{
+    "hostname": "d3149",
+    "platform": "Linux-5.14.0-362.13.1.el9_3.x86_64-x86_64-with-glibc2.34",
+    "python_version": "3.12.9",
+    "torch_version": "2.5.1+cu121",
+    "cpu_model": "x86_64",
+    "cpu_count": 256,
+    "cuda_version": "12.1",
+    "gpu_count": 4,
+    "gpu_models": [
+        "NVIDIA A100-SXM4-40GB",
+        "NVIDIA A100-SXM4-40GB",
+        "NVIDIA A100-SXM4-40GB",
+        "NVIDIA A100-SXM4-40GB"
+    ]
+}

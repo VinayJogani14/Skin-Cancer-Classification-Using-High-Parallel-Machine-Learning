@@ -1,0 +1,37 @@
+Class,AUC
+Acne And Rosacea Photos,0.9996561763131535
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,0.9990046336127524
+Atopic Dermatitis Photos,0.999918152663265
+Ba  Cellulitis,0.9999967087743369
+Ba Impetigo,1.0
+Benign,0.9994909809378872
+Bulluosdiseasephotos,0.999962305150708
+Cellulitis Impetigo And Other Bacterial Infections,0.9999793187641055
+Eczema Photos,0.997828638122317
+Exanthems And Drug Eruptions,0.9998798957531059
+Fu Athlete Foot,1.0
+Fu Nail Fungus,1.0
+Fu Ringworm,0.9999998774952382
+Hair Loss Photos Alopecia And Other Hair Diseases,0.9996216491657556
+Heathy,1.0
+Herpes Hpv And Other Stds Photos,0.999897795423633
+Light Diseases And Disorders Of Pigmentation,0.9996928893047319
+Lupus And Other Connective Tissue Diseases,0.9999008689999308
+Malignant,0.9994835484766197
+Melanoma Skin Cancer Nevi And Moles,0.9999232992372001
+Nail Fungus And Other Nail Disease,0.9989798104589048
+Pa Cutaneous Larva Migrans,1.0
+Poison Ivy Photos And Other Contact Dermatitis,0.9999845571230404
+Psoriasis Pictures Lichen Planus And Related Diseases,0.9974089734082573
+Rashes,0.9999853150263074
+Scabies Lyme Disease And Other Infestations And Bites,0.9999867199538621
+Seborrheic Keratoses And Other Benign Tumors,0.9982715921244102
+Systemic Disease,0.9996956584104546
+Tinea Ringworm Candidiasis And Other Fungal Infections,0.9986919558215019
+Urticaria Hives,0.9999907895318688
+Vascular Tumors,0.9999912136408305
+Vasculitis Photos,0.9999369398866552
+Vi Chickenpox,1.0
+Vi Shingles,1.0
+Warts Molluscum And Other Viral Infections,0.9972071009003254
+Micro-average,0.9998206958912678

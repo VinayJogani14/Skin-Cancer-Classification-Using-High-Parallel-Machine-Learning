@@ -1,0 +1,230 @@
+True,Predicted,Count,Error Rate
+Benign,Malignant,108,8.378588052754074
+Nail Fungus And Other Nail Disease,Hair Loss Photos Alopecia And Other Hair Diseases,101,7.229778095919828
+Psoriasis Pictures Lichen Planus And Related Diseases,Nail Fungus And Other Nail Disease,83,6.116433308769344
+Malignant,Benign,80,5.930318754633062
+Psoriasis Pictures Lichen Planus And Related Diseases,Eczema Photos,40,2.9476787030213707
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Seborrheic Keratoses And Other Benign Tumors,34,2.490842490842491
+Eczema Photos,Atopic Dermatitis Photos,34,2.5278810408921935
+Tinea Ringworm Candidiasis And Other Fungal Infections,Eczema Photos,34,2.520385470719051
+Light Diseases And Disorders Of Pigmentation,Acne And Rosacea Photos,29,1.9218025182239893
+Seborrheic Keratoses And Other Benign Tumors,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,26,1.9908116385911179
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Acne And Rosacea Photos,24,1.7582417582417582
+Eczema Photos,Psoriasis Pictures Lichen Planus And Related Diseases,23,1.7100371747211895
+Warts Molluscum And Other Viral Infections,Herpes Hpv And Other Stds Photos,23,14.64968152866242
+Eczema Photos,Poison Ivy Photos And Other Contact Dermatitis,22,1.6356877323420074
+Nail Fungus And Other Nail Disease,Psoriasis Pictures Lichen Planus And Related Diseases,21,1.5032211882605584
+Psoriasis Pictures Lichen Planus And Related Diseases,Tinea Ringworm Candidiasis And Other Fungal Infections,21,1.5475313190862197
+Psoriasis Pictures Lichen Planus And Related Diseases,Exanthems And Drug Eruptions,20,1.4738393515106853
+Seborrheic Keratoses And Other Benign Tumors,Acne And Rosacea Photos,20,1.5313935681470139
+Lupus And Other Connective Tissue Diseases,Systemic Disease,17,1.1024643320363166
+Tinea Ringworm Candidiasis And Other Fungal Infections,Psoriasis Pictures Lichen Planus And Related Diseases,17,1.2601927353595255
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Light Diseases And Disorders Of Pigmentation,16,1.1721611721611722
+Seborrheic Keratoses And Other Benign Tumors,Melanoma Skin Cancer Nevi And Moles,16,1.225114854517611
+Psoriasis Pictures Lichen Planus And Related Diseases,Poison Ivy Photos And Other Contact Dermatitis,15,1.105379513633014
+Acne And Rosacea Photos,Exanthems And Drug Eruptions,14,1.0744435917114352
+Seborrheic Keratoses And Other Benign Tumors,Systemic Disease,14,1.0719754977029097
+Systemic Disease,Vasculitis Photos,14,0.9247027741083224
+Tinea Ringworm Candidiasis And Other Fungal Infections,Cellulitis Impetigo And Other Bacterial Infections,14,1.0378057820607858
+Psoriasis Pictures Lichen Planus And Related Diseases,Atopic Dermatitis Photos,13,0.9579955784819455
+Light Diseases And Disorders Of Pigmentation,Melanoma Skin Cancer Nevi And Moles,12,0.7952286282306164
+Seborrheic Keratoses And Other Benign Tumors,Warts Molluscum And Other Viral Infections,12,0.9188361408882083
+Systemic Disease,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,12,0.7926023778071334
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Eczema Photos,11,0.8058608058608059
+Melanoma Skin Cancer Nevi And Moles,Seborrheic Keratoses And Other Benign Tumors,11,0.7452574525745257
+Psoriasis Pictures Lichen Planus And Related Diseases,Bulluosdiseasephotos,11,0.810611643330877
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Psoriasis Pictures Lichen Planus And Related Diseases,10,0.7326007326007326
+Eczema Photos,Nail Fungus And Other Nail Disease,10,0.7434944237918215
+Eczema Photos,Tinea Ringworm Candidiasis And Other Fungal Infections,10,0.7434944237918215
+Melanoma Skin Cancer Nevi And Moles,Light Diseases And Disorders Of Pigmentation,10,0.6775067750677507
+Psoriasis Pictures Lichen Planus And Related Diseases,Cellulitis Impetigo And Other Bacterial Infections,10,0.7369196757553427
+Psoriasis Pictures Lichen Planus And Related Diseases,Herpes Hpv And Other Stds Photos,10,0.7369196757553427
+Seborrheic Keratoses And Other Benign Tumors,Psoriasis Pictures Lichen Planus And Related Diseases,10,0.7656967840735069
+Tinea Ringworm Candidiasis And Other Fungal Infections,Urticaria Hives,10,0.7412898443291327
+Seborrheic Keratoses And Other Benign Tumors,Bulluosdiseasephotos,9,0.6891271056661562
+Vasculitis Photos,Seborrheic Keratoses And Other Benign Tumors,9,0.5572755417956656
+Psoriasis Pictures Lichen Planus And Related Diseases,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,8,0.5895357406042742
+Acne And Rosacea Photos,Light Diseases And Disorders Of Pigmentation,7,0.5372217958557176
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Scabies Lyme Disease And Other Infestations And Bites,7,0.5128205128205128
+Atopic Dermatitis Photos,Eczema Photos,7,0.4827586206896552
+Eczema Photos,Seborrheic Keratoses And Other Benign Tumors,7,0.5204460966542751
+Exanthems And Drug Eruptions,Atopic Dermatitis Photos,7,0.4416403785488959
+Light Diseases And Disorders Of Pigmentation,Lupus And Other Connective Tissue Diseases,7,0.4638833664678595
+Tinea Ringworm Candidiasis And Other Fungal Infections,Light Diseases And Disorders Of Pigmentation,7,0.5189028910303929
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Bulluosdiseasephotos,6,0.43956043956043955
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Systemic Disease,6,0.43956043956043955
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Tinea Ringworm Candidiasis And Other Fungal Infections,6,0.43956043956043955
+Ba  Cellulitis,Rashes,6,0.3729024238657551
+Eczema Photos,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,6,0.44609665427509293
+Eczema Photos,Scabies Lyme Disease And Other Infestations And Bites,6,0.44609665427509293
+Eczema Photos,Vasculitis Photos,6,0.44609665427509293
+Exanthems And Drug Eruptions,Light Diseases And Disorders Of Pigmentation,6,0.3785488958990536
+Light Diseases And Disorders Of Pigmentation,Atopic Dermatitis Photos,6,0.3976143141153082
+Nail Fungus And Other Nail Disease,Systemic Disease,6,0.4294917680744452
+Psoriasis Pictures Lichen Planus And Related Diseases,Vascular Tumors,6,0.4421518054532056
+Systemic Disease,Lupus And Other Connective Tissue Diseases,6,0.3963011889035667
+Tinea Ringworm Candidiasis And Other Fungal Infections,Acne And Rosacea Photos,6,0.4447739065974796
+Tinea Ringworm Candidiasis And Other Fungal Infections,Atopic Dermatitis Photos,6,0.4447739065974796
+Urticaria Hives,Systemic Disease,6,0.35629453681710216
+Vasculitis Photos,Exanthems And Drug Eruptions,6,0.3715170278637771
+Vasculitis Photos,Psoriasis Pictures Lichen Planus And Related Diseases,6,0.3715170278637771
+Warts Molluscum And Other Viral Infections,Cellulitis Impetigo And Other Bacterial Infections,6,3.821656050955414
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Herpes Hpv And Other Stds Photos,5,0.3663003663003663
+Eczema Photos,Bulluosdiseasephotos,5,0.37174721189591076
+Eczema Photos,Vascular Tumors,5,0.37174721189591076
+Exanthems And Drug Eruptions,Eczema Photos,5,0.31545741324921134
+Exanthems And Drug Eruptions,Psoriasis Pictures Lichen Planus And Related Diseases,5,0.31545741324921134
+Lupus And Other Connective Tissue Diseases,Bulluosdiseasephotos,5,0.324254215304799
+Psoriasis Pictures Lichen Planus And Related Diseases,Vasculitis Photos,5,0.36845983787767134
+Systemic Disease,Bulluosdiseasephotos,5,0.33025099075297226
+Systemic Disease,Seborrheic Keratoses And Other Benign Tumors,5,0.33025099075297226
+Systemic Disease,Tinea Ringworm Candidiasis And Other Fungal Infections,5,0.33025099075297226
+Tinea Ringworm Candidiasis And Other Fungal Infections,Seborrheic Keratoses And Other Benign Tumors,5,0.37064492216456635
+Tinea Ringworm Candidiasis And Other Fungal Infections,Warts Molluscum And Other Viral Infections,5,0.37064492216456635
+Acne And Rosacea Photos,Seborrheic Keratoses And Other Benign Tumors,4,0.3069838833461243
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Melanoma Skin Cancer Nevi And Moles,4,0.29304029304029305
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Vasculitis Photos,4,0.29304029304029305
+Eczema Photos,Acne And Rosacea Photos,4,0.29739776951672864
+Eczema Photos,Light Diseases And Disorders Of Pigmentation,4,0.29739776951672864
+Eczema Photos,Systemic Disease,4,0.29739776951672864
+Exanthems And Drug Eruptions,Acne And Rosacea Photos,4,0.25236593059936907
+Herpes Hpv And Other Stds Photos,Psoriasis Pictures Lichen Planus And Related Diseases,4,0.25806451612903225
+Light Diseases And Disorders Of Pigmentation,Exanthems And Drug Eruptions,4,0.26507620941020543
+Psoriasis Pictures Lichen Planus And Related Diseases,Acne And Rosacea Photos,4,0.2947678703021371
+Psoriasis Pictures Lichen Planus And Related Diseases,Light Diseases And Disorders Of Pigmentation,4,0.2947678703021371
+Psoriasis Pictures Lichen Planus And Related Diseases,Lupus And Other Connective Tissue Diseases,4,0.2947678703021371
+Seborrheic Keratoses And Other Benign Tumors,Eczema Photos,4,0.30627871362940273
+Seborrheic Keratoses And Other Benign Tumors,Vasculitis Photos,4,0.30627871362940273
+Systemic Disease,Eczema Photos,4,0.26420079260237783
+Systemic Disease,Light Diseases And Disorders Of Pigmentation,4,0.26420079260237783
+Tinea Ringworm Candidiasis And Other Fungal Infections,Exanthems And Drug Eruptions,4,0.2965159377316531
+Tinea Ringworm Candidiasis And Other Fungal Infections,Herpes Hpv And Other Stds Photos,4,0.2965159377316531
+Tinea Ringworm Candidiasis And Other Fungal Infections,Vasculitis Photos,4,0.2965159377316531
+Acne And Rosacea Photos,Bulluosdiseasephotos,3,0.23023791250959325
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Cellulitis Impetigo And Other Bacterial Infections,3,0.21978021978021978
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Lupus And Other Connective Tissue Diseases,3,0.21978021978021978
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Poison Ivy Photos And Other Contact Dermatitis,3,0.21978021978021978
+Eczema Photos,Exanthems And Drug Eruptions,3,0.22304832713754646
+Fu Ringworm,Rashes,3,0.1937984496124031
+Light Diseases And Disorders Of Pigmentation,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,3,0.1988071570576541
+Light Diseases And Disorders Of Pigmentation,Systemic Disease,3,0.1988071570576541
+Psoriasis Pictures Lichen Planus And Related Diseases,Seborrheic Keratoses And Other Benign Tumors,3,0.2210759027266028
+Psoriasis Pictures Lichen Planus And Related Diseases,Systemic Disease,3,0.2210759027266028
+Rashes,Ba  Cellulitis,3,0.21536252692031588
+Rashes,Vi Shingles,3,0.21536252692031588
+Seborrheic Keratoses And Other Benign Tumors,Atopic Dermatitis Photos,3,0.22970903522205208
+Seborrheic Keratoses And Other Benign Tumors,Cellulitis Impetigo And Other Bacterial Infections,3,0.22970903522205208
+Seborrheic Keratoses And Other Benign Tumors,Exanthems And Drug Eruptions,3,0.22970903522205208
+Seborrheic Keratoses And Other Benign Tumors,Hair Loss Photos Alopecia And Other Hair Diseases,3,0.22970903522205208
+Seborrheic Keratoses And Other Benign Tumors,Herpes Hpv And Other Stds Photos,3,0.22970903522205208
+Systemic Disease,Atopic Dermatitis Photos,3,0.19815059445178335
+Systemic Disease,Exanthems And Drug Eruptions,3,0.19815059445178335
+Systemic Disease,Nail Fungus And Other Nail Disease,3,0.19815059445178335
+Tinea Ringworm Candidiasis And Other Fungal Infections,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,3,0.2223869532987398
+Tinea Ringworm Candidiasis And Other Fungal Infections,Hair Loss Photos Alopecia And Other Hair Diseases,3,0.2223869532987398
+Tinea Ringworm Candidiasis And Other Fungal Infections,Nail Fungus And Other Nail Disease,3,0.2223869532987398
+Tinea Ringworm Candidiasis And Other Fungal Infections,Systemic Disease,3,0.2223869532987398
+Tinea Ringworm Candidiasis And Other Fungal Infections,Vascular Tumors,3,0.2223869532987398
+Vasculitis Photos,Lupus And Other Connective Tissue Diseases,3,0.18575851393188855
+Warts Molluscum And Other Viral Infections,Tinea Ringworm Candidiasis And Other Fungal Infections,3,1.910828025477707
+Acne And Rosacea Photos,Atopic Dermatitis Photos,2,0.15349194167306215
+Acne And Rosacea Photos,Eczema Photos,2,0.15349194167306215
+Acne And Rosacea Photos,Poison Ivy Photos And Other Contact Dermatitis,2,0.15349194167306215
+Acne And Rosacea Photos,Systemic Disease,2,0.15349194167306215
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Hair Loss Photos Alopecia And Other Hair Diseases,2,0.14652014652014653
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Warts Molluscum And Other Viral Infections,2,0.14652014652014653
+Atopic Dermatitis Photos,Psoriasis Pictures Lichen Planus And Related Diseases,2,0.13793103448275862
+Benign,Melanoma Skin Cancer Nevi And Moles,2,0.1551590380139643
+Cellulitis Impetigo And Other Bacterial Infections,Acne And Rosacea Photos,2,0.12698412698412698
+Exanthems And Drug Eruptions,Vasculitis Photos,2,0.12618296529968454
+Herpes Hpv And Other Stds Photos,Exanthems And Drug Eruptions,2,0.12903225806451613
+Herpes Hpv And Other Stds Photos,Warts Molluscum And Other Viral Infections,2,0.12903225806451613
+Light Diseases And Disorders Of Pigmentation,Poison Ivy Photos And Other Contact Dermatitis,2,0.13253810470510272
+Light Diseases And Disorders Of Pigmentation,Psoriasis Pictures Lichen Planus And Related Diseases,2,0.13253810470510272
+Light Diseases And Disorders Of Pigmentation,Tinea Ringworm Candidiasis And Other Fungal Infections,2,0.13253810470510272
+Light Diseases And Disorders Of Pigmentation,Vasculitis Photos,2,0.13253810470510272
+Lupus And Other Connective Tissue Diseases,Acne And Rosacea Photos,2,0.1297016861219196
+Malignant,Rashes,2,0.14825796886582654
+Nail Fungus And Other Nail Disease,Tinea Ringworm Candidiasis And Other Fungal Infections,2,0.14316392269148176
+Seborrheic Keratoses And Other Benign Tumors,Light Diseases And Disorders Of Pigmentation,2,0.15313935681470137
+Seborrheic Keratoses And Other Benign Tumors,Lupus And Other Connective Tissue Diseases,2,0.15313935681470137
+Seborrheic Keratoses And Other Benign Tumors,Poison Ivy Photos And Other Contact Dermatitis,2,0.15313935681470137
+Systemic Disease,Herpes Hpv And Other Stds Photos,2,0.13210039630118892
+Systemic Disease,Vascular Tumors,2,0.13210039630118892
+Tinea Ringworm Candidiasis And Other Fungal Infections,Bulluosdiseasephotos,2,0.14825796886582654
+Tinea Ringworm Candidiasis And Other Fungal Infections,Scabies Lyme Disease And Other Infestations And Bites,2,0.14825796886582654
+Urticaria Hives,Atopic Dermatitis Photos,2,0.1187648456057007
+Vasculitis Photos,Cellulitis Impetigo And Other Bacterial Infections,2,0.1238390092879257
+Vasculitis Photos,Tinea Ringworm Candidiasis And Other Fungal Infections,2,0.1238390092879257
+Warts Molluscum And Other Viral Infections,Bulluosdiseasephotos,2,1.2738853503184713
+Warts Molluscum And Other Viral Infections,Eczema Photos,2,1.2738853503184713
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Atopic Dermatitis Photos,1,0.07326007326007326
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Exanthems And Drug Eruptions,1,0.07326007326007326
+Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,Vascular Tumors,1,0.07326007326007326
+Atopic Dermatitis Photos,Poison Ivy Photos And Other Contact Dermatitis,1,0.06896551724137931
+Atopic Dermatitis Photos,Seborrheic Keratoses And Other Benign Tumors,1,0.06896551724137931
+Atopic Dermatitis Photos,Vascular Tumors,1,0.06896551724137931
+Atopic Dermatitis Photos,Warts Molluscum And Other Viral Infections,1,0.06896551724137931
+Bulluosdiseasephotos,Exanthems And Drug Eruptions,1,0.06501950585175553
+Bulluosdiseasephotos,Nail Fungus And Other Nail Disease,1,0.06501950585175553
+Cellulitis Impetigo And Other Bacterial Infections,Vasculitis Photos,1,0.06349206349206349
+Eczema Photos,Cellulitis Impetigo And Other Bacterial Infections,1,0.07434944237918216
+Eczema Photos,Hair Loss Photos Alopecia And Other Hair Diseases,1,0.07434944237918216
+Eczema Photos,Urticaria Hives,1,0.07434944237918216
+Exanthems And Drug Eruptions,Systemic Disease,1,0.06309148264984227
+Exanthems And Drug Eruptions,Urticaria Hives,1,0.06309148264984227
+Fu Nail Fungus,Pa Cutaneous Larva Migrans,1,1.6129032258064515
+Hair Loss Photos Alopecia And Other Hair Diseases,Eczema Photos,1,0.06353240152477764
+Hair Loss Photos Alopecia And Other Hair Diseases,Tinea Ringworm Candidiasis And Other Fungal Infections,1,0.06353240152477764
+Herpes Hpv And Other Stds Photos,Atopic Dermatitis Photos,1,0.06451612903225806
+Herpes Hpv And Other Stds Photos,Tinea Ringworm Candidiasis And Other Fungal Infections,1,0.06451612903225806
+Herpes Hpv And Other Stds Photos,Vascular Tumors,1,0.06451612903225806
+Light Diseases And Disorders Of Pigmentation,Seborrheic Keratoses And Other Benign Tumors,1,0.06626905235255136
+Light Diseases And Disorders Of Pigmentation,Vascular Tumors,1,0.06626905235255136
+Light Diseases And Disorders Of Pigmentation,Warts Molluscum And Other Viral Infections,1,0.06626905235255136
+Lupus And Other Connective Tissue Diseases,Atopic Dermatitis Photos,1,0.0648508430609598
+Lupus And Other Connective Tissue Diseases,Eczema Photos,1,0.0648508430609598
+Lupus And Other Connective Tissue Diseases,Hair Loss Photos Alopecia And Other Hair Diseases,1,0.0648508430609598
+Lupus And Other Connective Tissue Diseases,Light Diseases And Disorders Of Pigmentation,1,0.0648508430609598
+Lupus And Other Connective Tissue Diseases,Psoriasis Pictures Lichen Planus And Related Diseases,1,0.0648508430609598
+Lupus And Other Connective Tissue Diseases,Tinea Ringworm Candidiasis And Other Fungal Infections,1,0.0648508430609598
+Lupus And Other Connective Tissue Diseases,Urticaria Hives,1,0.0648508430609598
+Malignant,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,1,0.07412898443291327
+Malignant,Bulluosdiseasephotos,1,0.07412898443291327
+Malignant,Cellulitis Impetigo And Other Bacterial Infections,1,0.07412898443291327
+Melanoma Skin Cancer Nevi And Moles,Exanthems And Drug Eruptions,1,0.06775067750677506
+Melanoma Skin Cancer Nevi And Moles,Hair Loss Photos Alopecia And Other Hair Diseases,1,0.06775067750677506
+Melanoma Skin Cancer Nevi And Moles,Nail Fungus And Other Nail Disease,1,0.06775067750677506
+Nail Fungus And Other Nail Disease,Cellulitis Impetigo And Other Bacterial Infections,1,0.07158196134574088
+Nail Fungus And Other Nail Disease,Eczema Photos,1,0.07158196134574088
+Psoriasis Pictures Lichen Planus And Related Diseases,Hair Loss Photos Alopecia And Other Hair Diseases,1,0.07369196757553427
+Psoriasis Pictures Lichen Planus And Related Diseases,Scabies Lyme Disease And Other Infestations And Bites,1,0.07369196757553427
+Psoriasis Pictures Lichen Planus And Related Diseases,Urticaria Hives,1,0.07369196757553427
+Rashes,Ba Impetigo,1,0.07178750897343862
+Rashes,Fu Ringworm,1,0.07178750897343862
+Rashes,Heathy,1,0.07178750897343862
+Rashes,Pa Cutaneous Larva Migrans,1,0.07178750897343862
+Scabies Lyme Disease And Other Infestations And Bites,Atopic Dermatitis Photos,1,0.06389776357827476
+Scabies Lyme Disease And Other Infestations And Bites,Eczema Photos,1,0.06389776357827476
+Scabies Lyme Disease And Other Infestations And Bites,Exanthems And Drug Eruptions,1,0.06389776357827476
+Scabies Lyme Disease And Other Infestations And Bites,Psoriasis Pictures Lichen Planus And Related Diseases,1,0.06389776357827476
+Scabies Lyme Disease And Other Infestations And Bites,Tinea Ringworm Candidiasis And Other Fungal Infections,1,0.06389776357827476
+Seborrheic Keratoses And Other Benign Tumors,Tinea Ringworm Candidiasis And Other Fungal Infections,1,0.07656967840735068
+Seborrheic Keratoses And Other Benign Tumors,Vascular Tumors,1,0.07656967840735068
+Systemic Disease,Hair Loss Photos Alopecia And Other Hair Diseases,1,0.06605019815059446
+Systemic Disease,Urticaria Hives,1,0.06605019815059446
+Systemic Disease,Warts Molluscum And Other Viral Infections,1,0.06605019815059446
+Tinea Ringworm Candidiasis And Other Fungal Infections,Melanoma Skin Cancer Nevi And Moles,1,0.07412898443291327
+Tinea Ringworm Candidiasis And Other Fungal Infections,Poison Ivy Photos And Other Contact Dermatitis,1,0.07412898443291327
+Vascular Tumors,Atopic Dermatitis Photos,1,0.06333122229259025
+Vascular Tumors,Warts Molluscum And Other Viral Infections,1,0.06333122229259025
+Vasculitis Photos,Bulluosdiseasephotos,1,0.06191950464396285
+Vasculitis Photos,Systemic Disease,1,0.06191950464396285
+Warts Molluscum And Other Viral Infections,Acne And Rosacea Photos,1,0.6369426751592356
+Warts Molluscum And Other Viral Infections,Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions,1,0.6369426751592356
+Warts Molluscum And Other Viral Infections,Atopic Dermatitis Photos,1,0.6369426751592356
+Warts Molluscum And Other Viral Infections,Light Diseases And Disorders Of Pigmentation,1,0.6369426751592356
+Warts Molluscum And Other Viral Infections,Melanoma Skin Cancer Nevi And Moles,1,0.6369426751592356
+Warts Molluscum And Other Viral Infections,Poison Ivy Photos And Other Contact Dermatitis,1,0.6369426751592356
+Warts Molluscum And Other Viral Infections,Scabies Lyme Disease And Other Infestations And Bites,1,0.6369426751592356
+Warts Molluscum And Other Viral Infections,Seborrheic Keratoses And Other Benign Tumors,1,0.6369426751592356
