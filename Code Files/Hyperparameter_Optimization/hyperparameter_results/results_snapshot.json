@@ -1,0 +1,74 @@
+[
+    {
+        "config": {
+            "batch_size": 32,
+            "channels_last": false,
+            "learning_rate": 0.01,
+            "mixed_precision": false,
+            "model": "efficientnet_b0",
+            "optimizer": "adam",
+            "scheduler": null,
+            "weight_decay": 0.0
+        },
+        "metrics": {
+            "train_losses": [
+                2.583239633430658
+            ],
+            "train_accuracies": [
+                23.158818338103035
+            ],
+            "val_losses": [
+                2.25249584030856
+            ],
+            "val_accuracies": [
+                32.51101860920666
+            ],
+            "epoch_times": [
+                840.4212026596069
+            ],
+            "total_time": 840.4212663173676,
+            "final_train_loss": 2.583239633430658,
+            "final_train_acc": 23.158818338103035,
+            "final_val_loss": 2.25249584030856,
+            "final_val_acc": 32.51101860920666,
+            "best_val_acc": 32.51101860920666,
+            "avg_epoch_time": 840.4212026596069
+        }
+    },
+    {
+        "config": {
+            "batch_size": 32,
+            "channels_last": false,
+            "learning_rate": 0.01,
+            "mixed_precision": false,
+            "model": "efficientnet_b0",
+            "optimizer": "adam",
+            "scheduler": null,
+            "weight_decay": 0.001
+        },
+        "metrics": {
+            "train_losses": [
+                3.1250100239328105
+            ],
+            "train_accuracies": [
+                9.382795402721026
+            ],
+            "val_losses": [
+                3.239748340518294
+            ],
+            "val_accuracies": [
+                8.537381651975188
+            ],
+            "epoch_times": [
+                850.395340681076
+            ],
+            "total_time": 850.395402431488,
+            "final_train_loss": 3.1250100239328105,
+            "final_train_acc": 9.382795402721026,
+            "final_val_loss": 3.239748340518294,
+            "final_val_acc": 8.537381651975188,
+            "best_val_acc": 8.537381651975188,
+            "avg_epoch_time": 850.395340681076
+        }
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "model": [
+        "efficientnet_b0",
+        "efficientnet_b3",
+        "resnet50",
+        "densenet121"
+    ],
+    "batch_size": [
+        32,
+        64,
+        128
+    ],
+    "optimizer": [
+        "adam",
+        "adamw",
+        "sgd"
+    ],
+    "learning_rate": [
+        0.01,
+        0.001,
+        0.0001
+    ],
+    "scheduler": [
+        null,
+        "cosine",
+        "step",
+        "reduce_on_plateau",
+        "onecycle"
+    ],
+    "weight_decay": [
+        0.0,
+        0.001,
+        0.01
+    ],
+    "mixed_precision": [
+        false,
+        true
+    ],
+    "channels_last": [
+        false,
+        true
+    ]
+}
