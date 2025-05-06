@@ -1,0 +1,39 @@
+Training with 2 GPUs
+Batch size per GPU: 32
+Total batch size: 64
+Training with 2 GPUs
+Training set size: 196029
+Validation set size: 49008
+Batch size: 32
+Starting epoch: 1
+Model saved with validation accuracy: 53.42%
+Epoch 1/5
+Train Loss: 1.7798, Train Acc: 49.07%
+Val Loss: 1.5860, Val Acc: 53.42%
+------------------------------------------------------------
+Starting epoch: 2
+Model saved with validation accuracy: 55.22%
+Epoch 2/5
+Train Loss: 1.5623, Train Acc: 53.86%
+Val Loss: 1.5184, Val Acc: 55.22%
+------------------------------------------------------------
+Starting epoch: 3
+Model saved with validation accuracy: 55.61%
+Epoch 3/5
+Train Loss: 1.5260, Train Acc: 54.72%
+Val Loss: 1.5101, Val Acc: 55.61%
+------------------------------------------------------------
+Starting epoch: 4
+Epoch 4/5
+Train Loss: 1.5072, Train Acc: 55.51%
+Val Loss: 1.5278, Val Acc: 55.31%
+------------------------------------------------------------
+Starting epoch: 5
+Model saved with validation accuracy: 56.39%
+Epoch 5/5
+Train Loss: 1.4989, Train Acc: 55.48%
+Val Loss: 1.4852, Val Acc: 56.39%
+------------------------------------------------------------
+Training completed in 1562.39 seconds.
+Training completed. Best validation accuracy: 56.39%
+Final validation accuracy: 56.39%

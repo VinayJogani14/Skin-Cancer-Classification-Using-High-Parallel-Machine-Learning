@@ -1,0 +1,46 @@
+Training with 1 GPUs
+Batch size per GPU: 32
+Total batch size: 32
+Training with 1 GPUs
+Created mapping for 35 classes:
+ Acne And Rosacea Photos: 0
+ Actinic Keratosis Basal Cell Carcinoma And Other Malignant Lesions: 1
+ Atopic Dermatitis Photos: 2
+ Ba  Cellulitis: 3
+ Ba Impetigo: 4
+ Benign: 5
+ Bulluosdiseasephotos: 6
+ Cellulitis Impetigo And Other Bacterial Infections: 7
+ Eczema Photos: 8
+ Exanthems And Drug Eruptions: 9
+ Fu Athlete Foot: 10
+ Fu Nail Fungus: 11
+ Fu Ringworm: 12
+ Hair Loss Photos Alopecia And Other Hair Diseases: 13
+ Heathy: 14
+ Herpes Hpv And Other Stds Photos: 15
+ Light Diseases And Disorders Of Pigmentation: 16
+ Lupus And Other Connective Tissue Diseases: 17
+ Malignant: 18
+ Melanoma Skin Cancer Nevi And Moles: 19
+ Nail Fungus And Other Nail Disease: 20
+ Pa Cutaneous Larva Migrans: 21
+ Poison Ivy Photos And Other Contact Dermatitis: 22
+ Psoriasis Pictures Lichen Planus And Related Diseases: 23
+ Rashes: 24
+ Scabies Lyme Disease And Other Infestations And Bites: 25
+ Seborrheic Keratoses And Other Benign Tumors: 26
+ Systemic Disease: 27
+ Tinea Ringworm Candidiasis And Other Fungal Infections: 28
+ Urticaria Hives: 29
+ Vascular Tumors: 30
+ Vasculitis Photos: 31
+ Vi Chickenpox: 32
+ Vi Shingles: 33
+ Warts Molluscum And Other Viral Infections: 34
+Training set size: 196029
+Validation set size: 49008
+Batch size: 32
+1024
+Starting epoch: 0
+torch.Size([32, 3, 224, 224]) torch.Size([32])

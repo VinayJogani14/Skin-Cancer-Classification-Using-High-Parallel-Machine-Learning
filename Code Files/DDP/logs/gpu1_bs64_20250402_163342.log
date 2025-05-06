@@ -1,0 +1,8 @@
+Training with 1 GPUs
+Batch size per GPU: 64
+Total batch size: 64
+Training with 1 GPUs
+Training set size: 196029
+Validation set size: 49008
+Batch size: 64
+Starting epoch: 1
