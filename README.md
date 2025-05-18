@@ -142,7 +142,7 @@ We used two CNN architectures:
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/yourusername/parallel-dermatology-cnn.git
+git clone https://github.com/VinayJogani14/parallel-dermatology-cnn.git
 cd parallel-dermatology-cnn
 pip install -r requirements.txt
 ```
